@@ -21,7 +21,6 @@
 
 ## Превью интерфейсов
 
-```md
 ### Дневник за день
 https://github.com/user-attachments/assets/575bdaae-051f-41e9-9172-8ac4540fb161
 
@@ -36,7 +35,6 @@ https://github.com/user-attachments/assets/285d7950-820a-422d-af46-9acaea74edcd
 
 ### Авторизация
 <img width="374" height="667" alt="Снимок экрана — 2026-06-24 в 20 55 12" src="https://github.com/user-attachments/assets/c750dea5-45bf-49e1-aeea-e0b7911535d9" />
-```
 
 ## Архитектура
 
