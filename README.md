@@ -23,19 +23,19 @@
 
 ```md
 ### Дневник за день
-![Дневник за день](docs/media/diary.png)
+https://github.com/user-attachments/assets/575bdaae-051f-41e9-9172-8ac4540fb161
 
 ### Утренний дневник
-![Утренний дневник](docs/media/diary-morning.png)
+https://github.com/user-attachments/assets/ef986af6-37d0-41ec-9c5b-a930438d8b71
 
 ### Профиль
-![Профиль](docs/media/profile.png)
+<img width="374" height="666" alt="Снимок экрана — 2026-06-24 в 20 56 47" src="https://github.com/user-attachments/assets/9a734433-8133-4a00-bf1a-fca2580389ad" />
 
 ### Основной интерфейс приложения
-![Приложение](docs/media/app.png)
+https://github.com/user-attachments/assets/285d7950-820a-422d-af46-9acaea74edcd
 
 ### Авторизация
-![Авторизация](docs/media/login.png)
+<img width="374" height="667" alt="Снимок экрана — 2026-06-24 в 20 55 12" src="https://github.com/user-attachments/assets/c750dea5-45bf-49e1-aeea-e0b7911535d9" />
 ```
 
 ## Архитектура
