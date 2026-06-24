@@ -210,8 +210,7 @@ renderFields() {
 За счёт этого одна frontend-сборка может отображать разные структуры дневника для разных пользователей.
 
 <img width="230" height="97" alt="Снимок экрана — 2026-06-24 в 20 54 38" src="https://github.com/user-attachments/assets/8982c6e8-3977-43ef-8d87-2df28f0eb7bb" />
-
-
+<br>
 <img width="362" height="359" alt="Снимок экрана — 2026-06-24 в 20 54 16" src="https://github.com/user-attachments/assets/987b44b2-3ab4-4857-9f37-ebc70fffad44" />
 <img width="368" height="349" alt="Снимок экрана — 2026-06-24 в 20 54 30" src="https://github.com/user-attachments/assets/66417092-a237-4de7-9ea1-24389a969c23" />
 
@@ -325,8 +324,10 @@ function applyTemplate(text, mode, config) {
 Тот же механизм применяется к заголовкам полей, подписям вариантов ответа и статическим текстам страницы.
 
 <img width="418" height="42" alt="Снимок экрана — 2026-06-24 в 22 12 10" src="https://github.com/user-attachments/assets/d36d620e-19cf-420b-9a07-118433f1510f" />
+<br>
 <img width="481" height="117" alt="Снимок экрана — 2026-06-24 в 20 53 18" src="https://github.com/user-attachments/assets/59c6977e-c39e-4407-9a62-6f2a6640ef7d" />
 <img width="466" height="108" alt="Снимок экрана — 2026-06-24 в 20 53 30" src="https://github.com/user-attachments/assets/cfdb2a4c-8d0e-4e93-a538-943ae2033f1f" />
+<br>
 <img width="368" height="189" alt="Снимок экрана — 2026-06-24 в 20 53 46" src="https://github.com/user-attachments/assets/ce7a112a-6b5e-48c7-a8f5-21e3c8d2a6d0" />
 <img width="363" height="192" alt="Снимок экрана — 2026-06-24 в 20 53 58" src="https://github.com/user-attachments/assets/e1c3be5b-8c09-4f3e-b8b8-caa5e7a09736" />
 
