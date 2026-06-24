@@ -1,5 +1,5 @@
 # mood_diaries_prepilot_public
-# Adaptive Diary UI — демонстрация frontend-архитектуры
+# Adaptive Mood Diary UI — демонстрация frontend-архитектуры
 
 > Безопасный публичный фрагмент приложения. Тексты приложения, production-endpoints, внутренние идентификаторы, backend-логика, приватные ресурсы и бизнес-правила намеренно исключены или обобщены.
 
