@@ -29,12 +29,22 @@ https://github.com/user-attachments/assets/ef986af6-37d0-41ec-9c5b-a930438d8b71
 
 ### Профиль
 <img width="374" height="666" alt="Снимок экрана — 2026-06-24 в 20 56 47" src="https://github.com/user-attachments/assets/9a734433-8133-4a00-bf1a-fca2580389ad" />
+<img width="374" height="663" alt="Снимок экрана — 2026-06-24 в 20 56 57" src="https://github.com/user-attachments/assets/98891e7c-9814-4158-a675-382c6884a32c" />
+
 
 ### Основной интерфейс приложения
 https://github.com/user-attachments/assets/285d7950-820a-422d-af46-9acaea74edcd
 
 ### Авторизация
 <img width="374" height="667" alt="Снимок экрана — 2026-06-24 в 20 55 12" src="https://github.com/user-attachments/assets/c750dea5-45bf-49e1-aeea-e0b7911535d9" />
+
+### Поддержка адаптивной верстки для мобильных/десктопных версий и дневного/ночного интерфейса
+<img width="971" height="749" alt="Снимок экрана — 2026-06-24 в 20 46 09" src="https://github.com/user-attachments/assets/9f10a41b-a8c8-4720-b6c2-d8d934fea2a0" />
+<img width="971" height="768" alt="Снимок экрана — 2026-06-24 в 20 46 41" src="https://github.com/user-attachments/assets/a0af3eff-6a7c-4d31-b645-3f7d01fd57d5" />
+<img width="974" height="743" alt="Снимок экрана — 2026-06-24 в 20 46 49" src="https://github.com/user-attachments/assets/f763aac8-5e2a-4334-825c-f55e62830fee" />
+
+
+
 
 ## Пример структуры проекта
 
