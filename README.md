@@ -210,6 +210,8 @@ renderFields() {
 За счёт этого одна frontend-сборка может отображать разные структуры дневника для разных пользователей.
 
 <img width="230" height="97" alt="Снимок экрана — 2026-06-24 в 20 54 38" src="https://github.com/user-attachments/assets/8982c6e8-3977-43ef-8d87-2df28f0eb7bb" />
+
+
 <img width="362" height="359" alt="Снимок экрана — 2026-06-24 в 20 54 16" src="https://github.com/user-attachments/assets/987b44b2-3ab4-4857-9f37-ebc70fffad44" />
 <img width="368" height="349" alt="Снимок экрана — 2026-06-24 в 20 54 30" src="https://github.com/user-attachments/assets/66417092-a237-4de7-9ea1-24389a969c23" />
 
